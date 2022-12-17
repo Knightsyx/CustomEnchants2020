@@ -1,0 +1,9 @@
+main: me.Knightsy.CustomEnchantments.Main
+name: customEnchants
+version: 1.0
+author: AG
+depend: [Vault]
+api-version: 1.13
+
+commands:
+  Ce:
